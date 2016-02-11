@@ -1,0 +1,4 @@
+body { padding-top: 48px; padding-bottom: 30px; }
+.es-tab-wrap { padding: 15px; }
+.es-tab-wrap > ul, .es-tab-wrap textarea { margin-bottom: 15px; }
+.es-tab-wrap button { margin-right: 10px; }
